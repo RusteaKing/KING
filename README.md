@@ -1,8 +1,6 @@
 # KING
 A new open source Operating System for developers across the universe built in Rust, Haskell, Java, C#, C++, Assembly, Python, FORTRAN, LISP and Prolog and much more {I think}
 
-### KING is free to all!
-
 ### Features
    * Automatic File System
    * Automatic Compiling System
@@ -21,9 +19,9 @@ A new open source Operating System for developers across the universe built in R
    * AI (based on php logic algorithm)
    * Basic necessities (Calendar, Calculator, Alarm, etc.)
    * Advance settings for customization
-   * others (Browser, Graphical Editor [With multi-support], text editor [with multi-support])
+   * others (Browser, Graphical Editor [With multi-support], text editor [with multi-support], etc.)
  
 #### LICENSE
 MIT
 
-Packed with Linux and XNU kernels
+Packed with Linux and XNU kernels for linux/OSX apps support
