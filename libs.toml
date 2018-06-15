@@ -1,0 +1,37 @@
+# Create own framework inspired by this dependencies (for now, we'll use it)
+[general]
+prompt = false
+paths = ["/libs"]
+
+[package]
+name = "KING"
+
+[dependencies]
+# graphics drivers
+benzene-2d = ">=0.2"
+nvml-wrapper = ">=0.4"
+ddcset = ">=0.0.3"
+embedded-graphics = ">=0.1."
+# END
+#FileSystem
+zbox = ">=0.5"
+flep = ">=0.2"
+filesystem = ">=0.4"
+fs2 = ">=0.4.3"
+futures-fs = ">=0.0.4"
+# END
+#Encoder
+encoding = ">=0.2.33"
+# END
+#SYSTEM
+libc = ">=0.2.42"
+uuid = ">=0.6"
+# END
+
+#
+#More to come
+#
+
+# Network configuration
+[net]
+retry = 4 //PH >.<
